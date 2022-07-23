@@ -1,15 +1,15 @@
 # Washing_Machine_Controller
-The operation of the machine consists of the following states:
+The Operation of the Machine Consists of the Following States:
 * Idle
 * Filling Water
 * Washing
 * Rinsing
 * Spinning<br>
 
-Also consists of 3 modules:
+Also Consists of 3 Main Modules:
 * FSM
-* Clock Divider Module
+* Clock Divider 
 * Timer
 
 <br>
-Simulation is done using modelsim
+Simulation is Done Using Modelsim
