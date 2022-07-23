@@ -11,5 +11,5 @@ Also consists of 3 modules:
 * Clock Divider Module
 * Timer
 
-<br><br>
+<br>
 Simulation is done using modelsim
